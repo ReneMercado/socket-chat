@@ -19,7 +19,7 @@ if (sala) {
 
 
 //FUNCIONES PARA RENDERIZAR USUARIOS
-function renderizarUsuario(presonas) {
+function renderizarUsuario(personas) {
 
     var html = '';
 
